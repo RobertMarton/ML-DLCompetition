@@ -4,6 +4,6 @@
 
 ### tianchi
 
-+ ✅ Industrial steam forecast
++ ✅ [Industrial steam forecast](https://github.com/RobertMarton/Industrial-steam-forecast)
 
 ### DL
